@@ -7,3 +7,5 @@ A webstore for art collections which can be posted by artists and bought by gues
 
 [Functional Requirements](https://github.com/AjayKumar1403/GDP_Project_ESPARTA/wiki/Functional-Requirements-of-Esparta)
 
+[List Of Proposed Prototypes](https://github.com/AjayKumar1403/GDP_Project_ESPARTA/wiki/List-of-Proposed-Prototypes)
+
