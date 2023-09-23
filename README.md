@@ -9,3 +9,6 @@ A webstore for art collections which can be posted by artists and bought by gues
 
 [List Of Proposed Prototypes](https://github.com/AjayKumar1403/GDP_Project_ESPARTA/wiki/List-of-Proposed-Prototypes)
 
+[Project Charter -(Iteration-1)](https://github.com/AjayKumar1403/GDP_Project_ESPARTA/wiki/Project-Charter-(Iteration-1))
+
+[Usecases - (Iteration-1)](https://github.com/AjayKumar1403/GDP_Project_ESPARTA/wiki/Use-Cases-(Iteration-1))
