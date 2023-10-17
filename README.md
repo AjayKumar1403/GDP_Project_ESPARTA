@@ -12,3 +12,5 @@ A webstore for art collections which can be posted by artists and bought by gues
 [Project Charter -(Iteration-1)](https://github.com/AjayKumar1403/GDP_Project_ESPARTA/wiki/Project-Charter-(Iteration-1))
 
 [Usecases - (Iteration-1)](https://github.com/AjayKumar1403/GDP_Project_ESPARTA/wiki/Use-Cases-(Iteration-1))
+
+[Non Functional Requirements](https://github.com/AjayKumar1403/GDP_Project_ESPARTA/wiki/NON%E2%80%90FUNCTIONAL-REQUIREMENTS)
