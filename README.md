@@ -8,7 +8,7 @@ A webstore for art collections which can be posted by artists and bought by gues
 
 ### Design
 
-[Usecases - (Iteration-2)]((https://github.com/AjayKumar1403/GDP_Project_ESPARTA/wiki/Use-Cases-(Iteration-2))
+[Usecases - (Iteration-2)](https://github.com/AjayKumar1403/GDP_Project_ESPARTA/wiki/Use-Cases-(Iteration-2))
 
 [Functional Requirements](https://github.com/AjayKumar1403/GDP_Project_ESPARTA/wiki/Functional-Requirements-of-Esparta)
 
