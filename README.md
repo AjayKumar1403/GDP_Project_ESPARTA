@@ -27,5 +27,5 @@ A webstore for art collections which can be posted by artists and bought by gues
 
 [About ESPARTA ](https://github.com/AjayKumar1403/GDP_Project_ESPARTA/wiki/ESPARTA)
 
-###Iteration Plan: Week 2
+### Iteration Plan: Week 2
 [Iteration plan : Week 2](https://github.com/AjayKumar1403/GDP_Project_ESPARTA/wiki/Iteration-Plan:-Week-2)
