@@ -32,4 +32,4 @@ A webstore for art collections which can be posted by artists and bought by gues
 
 [Iteration plan : Week 3](https://github.com/AjayKumar1403/GDP_Project_ESPARTA/wiki/Iteration-Plan:-Week-3)
 
-[Iteration plan : Week 4](https://github.com/AjayKumar1403/GDP_Project_ESPARTA/wiki/Iteration-Plan:-Week-4)
+[Iteration plan : Week 4](https://github.com/AjayKumar1403/GDP_Project_ESPARTA/wiki/Iteration-Plan:--Week-4)
