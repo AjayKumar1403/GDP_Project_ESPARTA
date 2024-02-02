@@ -20,8 +20,8 @@ A webstore for art collections which can be posted by artists and bought by gues
 
 [Prototypes](https://github.com/AjayKumar1403/GDP_Project_ESPARTA/wiki/Prototypes)
 
-### Minutes Of Minutes
-[Minutes Of Meeting](https://github.com/AjayKumar1403/GDP_Project_ESPARTA/wiki/Meeting-Minutes)
+### Meeting Minutes
+[Meeting Minutes](https://github.com/AjayKumar1403/GDP_Project_ESPARTA/wiki/Meeting-Minutes)
 
 ### Development
 
