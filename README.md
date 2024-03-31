@@ -47,3 +47,6 @@ Workshop II
 
 ### Developer Documentation
 [Developer documentation](https://github.com/AjayKumar1403/GDP_Project_ESPARTA/wiki/Developer-Documentation)
+
+### Test Plan and Test Cases
+[Test Plan](https://github.com/AjayKumar1403/GDP_Project_ESPARTA/wiki/TestPlan)
